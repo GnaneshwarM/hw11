@@ -1,0 +1,36 @@
+{
+  "name": "tourserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "cookie": "^0.4.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "http-proxy-middleware": "^0.20.0",
+    "mocha": "^6.2.2",
+    "nedb-promise": "^2.0.1",
+    "nedb-promises": "^4.0.0",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-admin": "^3.0.4",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^1.2.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "supertest": "^4.0.2"
+  }
+}
